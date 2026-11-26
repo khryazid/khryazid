@@ -1,6 +1,6 @@
 # Hola, soy Khristian Ali 👋
 
-**Fundador de Glyph Agency · Desarrollador de Software & Soluciones Digitales para Empresas** · Venezuela
+**Cofundador de Glyph Agency · Desarrollador de Software & Soluciones Digitales para Empresas** · Venezuela
 
 Diseño y construyo productos digitales y plataformas SaaS de punta a punta, con foco en resiliencia operativa, seguridad multi-empresa e integración práctica de inteligencia artificial.
 
@@ -16,6 +16,7 @@ Diseño y construyo productos digitales y plataformas SaaS de punta a punta, con
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [**glyph-agency**](https://github.com/khryazid/glyph-agency) | Sitio web comercial oficial de Glyph Agency: sistemas a medida, webs corporativas, Community Management y campañas en Meta Ads. | Next.js 16 · React 19 · TypeScript · GSAP · Tailwind v4 |
 | [**glyphbrain**](https://github.com/khryazid/glyphbrain) | Segundo cerebro y red de conocimiento personal con grafo interactivo 2D, editor por bloques, búsqueda semántica (`pgvector`) y asistente conversacional con Gemini AI (incluye Live API de voz). | `Next.js 16` · `React 19` · `Supabase` · `pgvector` · `Gemini AI` · `PWA` |
 | [**ai-image-upscaler**](https://github.com/khryazid/ai-image-upscaler) | Aplicación local de superresolución de imágenes (Real-ESRGAN 2x/4x) y colorización automática (ECCV16) 100% privada en tu equipo. | `Python` · `Flask` · `PyTorch` · `Real-ESRGAN` · `ONNX Runtime` · `OpenCV` |
 

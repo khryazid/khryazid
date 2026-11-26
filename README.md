@@ -1,6 +1,6 @@
 # Hola, soy Khristian Ali 👋
 
-**Full-Stack Product Engineer & Founder @ Glyph Agency** · Venezuela
+**Fundador de Glyph Agency · Desarrollador de Software & Soluciones Digitales para Empresas** · Venezuela
 
 Diseño y construyo productos digitales y plataformas SaaS de punta a punta, con foco en resiliencia operativa, seguridad multi-empresa e integración práctica de inteligencia artificial.
 

@@ -39,6 +39,6 @@ Diseño y construyo productos digitales y plataformas SaaS de punta a punta, con
 
 ### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khristian--ali-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khyazid)
-[![X](https://img.shields.io/badge/X-@khr__yazid-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/khr_yazid)
-[![Instagram](https://img.shields.io/badge/Instagram-@khryazid-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khryazid)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=in%2Fkhyazid&color=0A66C2&style=flat-square)](https://www.linkedin.com/in/khyazid)
+[![X](https://img.shields.io/static/v1?label=X&message=%40khr_yazid&color=000000&style=flat-square&logo=x&logoColor=white)](https://x.com/khr_yazid)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%40khryazid&color=E4405F&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/khryazid)
